@@ -75,4 +75,4 @@ services:
 docker compose down && docker compose up -d
 ```
 
-Идею для оформления частично позаимствовал из [этого пректа](https://github.com/Fr1ngg/remnawave-multistep-xraychecker-subpage-adaptive).
+# Идею для оформления частично позаимствовал из [этого пректа](https://github.com/Fr1ngg/remnawave-multistep-xraychecker-subpage-adaptive).
